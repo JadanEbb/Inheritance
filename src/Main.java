@@ -8,6 +8,10 @@ public class Main {
         System.out.println(person2.age);
 
         Person Person3 = person2.Call_Private();
-        System.out.println();
+
+        Student st1 = new Student();
+        st1.age = 20;
+        st1.gpa = 4.00;
+        System.out.println(st1.gpa);
     }
 }
