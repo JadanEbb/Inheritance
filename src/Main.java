@@ -1,3 +1,5 @@
+//https://github.com/JadanEbb/Inheritance.git
+
 public class Main {
     static void main(String[] args) {
 //        Person person1 = new Person();
