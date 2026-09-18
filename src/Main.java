@@ -17,7 +17,6 @@ public class Main {
 //        System.out.println(st1.gpa);
 
         Instructor instructor1 = new Instructor("Avijoy", "Chakma", 28, 4);
-
         System.out.println(instructor1.name);
         System.out.println(instructor1.age);
         System.out.println(instructor1.assignments);
